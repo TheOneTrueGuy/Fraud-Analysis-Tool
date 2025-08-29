@@ -1,5 +1,5 @@
 # Fraud-Analysis-Tool
-Gemini Wide Context Kaggle Contest entry - Fraud Analysis Tool
+Gemini Wide Context Kaggle Contest entry - Fraud Analysis Tool (December 1, 2024)
 
 AI-Powered Fraud Detection Platform
 
