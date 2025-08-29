@@ -1,4 +1,4 @@
-Created in colaboration with Guy Mead ![Helping Hound](https://x.com/helping_hound)
+Created in colaboration with Guy Mead https://x.com/helping_hound
 
 # Fraud-Analysis-Tool
 Gemini Wide Context Kaggle Contest entry - Fraud Analysis Tool (December 1, 2024)
